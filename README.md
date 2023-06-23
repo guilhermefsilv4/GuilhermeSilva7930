@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Guilherme Ferreira 👋
 
-- 🔭 Estou trabalhando na Recode
+- 🔭 Estou trabalhando na Koerich Lab
 - 🌱 Estudando Java Spring Boot
 - 📫 Contate-me no email: guilherme.silva7930@gmail.com
 - 😄 Pronouns: Ele/Dele
